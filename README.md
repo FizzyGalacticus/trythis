@@ -6,12 +6,12 @@ A util to help trace errors
 
 Using `npm`:
 ```sh
-npm i --save @fizzygalacticus/trythis
+npm i --save-dev @fizzygalacticus/trythis
 ```
 
 Using `yarn`:
 ```sh
-yarn add --save @fizzygalacticus/trythis
+yarn add --dev @fizzygalacticus/trythis
 ```
 
 ## Usage

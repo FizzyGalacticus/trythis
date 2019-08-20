@@ -1,18 +1,23 @@
 {
-  "name": "@fizzygalacticus/trythis",
-  "version": "1.0.0",
-  "description": "Try anything and see what happens!",
-  "main": "index.js",
-  "repository": "https://github.com/FizzyGalacticus/trythis",
-  "author": "Dustin L. Dodson",
-  "license": "MIT",
-  "private": false,
-  "dependencies": {
-    "@fizzygalacticus/colored-fancy-log": "^1.0.0"
-  },
-  "devDependencies": {
-    "eslint": "^6.2.0",
-    "eslint-plugin-prettier": "^3.1.0",
-    "prettier": "^1.18.2"
-  }
+    "name": "@fizzygalacticus/trythis",
+    "version": "1.0.1",
+    "description": "Try anything and see what happens!",
+    "main": "index.js",
+    "repository": "https://github.com/FizzyGalacticus/trythis",
+    "author": "Dustin L. Dodson",
+    "license": "MIT",
+    "private": false,
+    "keywords": [
+        "try",
+        "helper",
+        "debug"
+    ],
+    "dependencies": {
+        "@fizzygalacticus/colored-fancy-log": "^1.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.2.0",
+        "eslint-plugin-prettier": "^3.1.0",
+        "prettier": "^1.18.2"
+    }
 }
