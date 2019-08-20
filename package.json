@@ -1,0 +1,13 @@
+{
+  "name": "@fizzygalacticus/trythis",
+  "version": "1.0.0",
+  "description": "Try anything and see what happens!",
+  "main": "index.js",
+  "repository": "https://github.com/FizzyGalacticus/trythis",
+  "author": "Dustin L. Dodson",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@fizzygalacticus/colored-fancy-log": "^1.0.0"
+  }
+}
