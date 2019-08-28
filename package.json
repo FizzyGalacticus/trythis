@@ -1,6 +1,6 @@
 {
     "name": "@fizzygalacticus/trythis",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Try anything and see what happens!",
     "main": "index.js",
     "repository": "https://github.com/FizzyGalacticus/trythis",
@@ -13,7 +13,8 @@
         "debug"
     ],
     "dependencies": {
-        "@fizzygalacticus/colored-fancy-log": "^1.0.0"
+        "@fizzygalacticus/colored-fancy-log": "^1.0.0",
+        "@fizzygalacticus/promise-or-not": "^1.0.1"
     },
     "devDependencies": {
         "eslint": "^6.2.0",
