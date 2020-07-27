@@ -14,7 +14,7 @@
     ],
     "dependencies": {
         "@fizzygalacticus/colored-fancy-log": "^1.0.0",
-        "@fizzygalacticus/promise-or-not": "^1.0.1"
+        "@fizzygalacticus/promise-or-not": "^2.0.0"
     },
     "devDependencies": {
         "eslint": "^6.2.0",

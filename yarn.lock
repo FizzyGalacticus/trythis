@@ -31,10 +31,10 @@
   resolved "https://registry.yarnpkg.com/@fizzygalacticus/is-promise/-/is-promise-1.0.1.tgz#78c474c36e6634de928d1723428e283d4de07e8f"
   integrity sha512-ERDaL6kswATYEt/vqYx/v17yindLFjFjfk4T091u1/HjZ7YWNX8wiDRGe0vhEdUWU7oZFiHpZouAQ0UOpZ1g5w==
 
-"@fizzygalacticus/promise-or-not@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@fizzygalacticus/promise-or-not/-/promise-or-not-1.0.1.tgz#a691fcf2129c8eff80bbdbec3fce0a533c67809e"
-  integrity sha512-jwAH2PaNeybFJq0izYkQ9stBwT0V86iG/kl+shRnoLVNW7WKn/RBn1t72pqKOdFrUrVVl+VJQMK+7PWMMNZGSQ==
+"@fizzygalacticus/promise-or-not@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@fizzygalacticus/promise-or-not/-/promise-or-not-2.0.0.tgz#c52e7a16e74ce2912c03f8a983b6cadd59161de0"
+  integrity sha512-Sk/wz1xoV+Dg4oNKZnEdFztLGQ/zLELL+/JJrayFdoaHDrM9Dpthrp3XMH9G+B1C9xngYbmQDkvEoq6jVvvmrw==
   dependencies:
     "@fizzygalacticus/is-promise" "^1.0.0"
 
