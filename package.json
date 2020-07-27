@@ -12,13 +12,16 @@
         "helper",
         "debug"
     ],
+    "scripts": {
+        "lint": "eslint . --fix"
+    },
     "dependencies": {
         "@fizzygalacticus/colored-fancy-log": "^1.0.0",
         "@fizzygalacticus/promise-or-not": "^2.0.0"
     },
     "devDependencies": {
-        "eslint": "^6.2.0",
-        "eslint-plugin-prettier": "^3.1.0",
-        "prettier": "^1.18.2"
+        "eslint": "^7.5.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "prettier": "^2.0.5"
     }
 }
